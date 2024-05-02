@@ -1,0 +1,1 @@
+React is completely transforming the Front-End Development landscape. Come master this powerful UI library, and learn career-ready skills with Udacity. You'll learn how to build declarative user interfaces for the web with React, and for iOS and Android with React Native. You'll also learn how to manage state more predictably in your applications with Redux.
