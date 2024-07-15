@@ -1,0 +1,6 @@
+https://iboard.ssi.com.vn/dchart/api/1.1/defaultAllStocks
+
+SSI Securities Corporation, often referred to as SSI, is one of Vietnam's leading financial institutions and a prominent player in the country's stock market. 
+
+This API allow you to access data for every company listed on Vietnam stock market.
+
